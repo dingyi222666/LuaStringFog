@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5fa5d3e7-d31a-42a6-93d7-05c3fb6e12bd" name="更改" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/settings.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/io/github/dingyi222666/luastringfog/stringFog.kt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="LuaStringFog" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://$PROJECT_DIR$/../../dingyi/.gradle/caches/modules-2/files-2.1/io.github.dingyi222666/luaparser-jvm/1.0.0/110d141a6a129ef9283480e057e2d72262f54808/luaparser-jvm-1.0.0-sources.jar!/commonMain/io/github/dingyi222666/luaparser/lexer/LuaLexer.kt" root0="SKIP_INSPECTION" />
+    <setting file="jar://$PROJECT_DIR$/../../dingyi/.gradle/caches/modules-2/files-2.1/io.github.dingyi222666/luaparser-jvm/1.0.0/110d141a6a129ef9283480e057e2d72262f54808/luaparser-jvm-1.0.0-sources.jar!/commonMain/io/github/dingyi222666/luaparser/parser/LuaParser.kt" root0="SKIP_INSPECTION" />
+    <setting file="jar://$PROJECT_DIR$/../../dingyi/.gradle/caches/modules-2/files-2.1/io.github.dingyi222666/luaparser-jvm/1.0.0/110d141a6a129ef9283480e057e2d72262f54808/luaparser-jvm-1.0.0-sources.jar!/commonMain/io/github/dingyi222666/luaparser/parser/ast/node/expressionNode.kt" root0="SKIP_INSPECTION" />
+    <setting file="jar://$PROJECT_DIR$/../../dingyi/.gradle/caches/modules-2/files-2.1/io.github.dingyi222666/luaparser-jvm/1.0.0/110d141a6a129ef9283480e057e2d72262f54808/luaparser-jvm-1.0.0-sources.jar!/commonMain/io/github/dingyi222666/luaparser/util/default.kt" root0="SKIP_INSPECTION" />
+    <setting file="jar://$PROJECT_DIR$/../../dingyi/.gradle/caches/modules-2/files-2.1/io.github.dingyi222666/luaparser-jvm/1.0.0/ac48c638a07cb342cd50b1780c8b807092f115d0/luaparser-jvm-1.0.0.jar!/META-INF/MANIFEST.MF" root0="SKIP_INSPECTION" />
+    <setting file="jar://$PROJECT_DIR$/../../dingyi/.gradle/caches/modules-2/files-2.1/io.github.dingyi222666/luaparser-jvm/1.0.1/5b4f9edf09fa1361a956eaad8ad857eb20492a54/luaparser-jvm-1.0.1-sources.jar!/commonMain/io/github/dingyi222666/luaparser/lexer/LuaLexer.kt" root0="SKIP_INSPECTION" />
+    <setting file="jar://$PROJECT_DIR$/../../dingyi/.gradle/caches/modules-2/files-2.1/io.github.dingyi222666/luaparser-jvm/1.0.1/d06e75dc0b8b8109779ae2478682a7c468bb44ed/luaparser-jvm-1.0.0.jar!/io/github/dingyi222666/luaparser/lexer/LuaLexer.class" root0="SKIP_INSPECTION" />
+    <setting file="jar://$PROJECT_DIR$/../../dingyi/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/2.0.0-Beta3/300e09c49fe1e7d4b56a95163513778236f31144/kotlin-stdlib-2.0.0-Beta3-sources.jar!/commonMain/kotlin/util/Tuples.kt" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2bUH93tUqHp3hklYNtFiy3qLK9L" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Gradle.下载源代码.executor": "Run",
+    "Gradle.构建 LuaStringFog.executor": "Run",
+    "Kotlin.MainKt.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "F:/dingyi/.gradle/caches/modules-2/files-2.1/io.github.dingyi222666/luaparser-jvm/1.0.0/110d141a6a129ef9283480e057e2d72262f54808/luaparser-jvm-1.0.0-sources.jar",
+    "onboarding.tips.debug.path": "F:/IdeaProjects/LuaStringFog/src/main/kotlin/Main.kt",
+    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\IdeaProjects\LuaStringFog\src\main\kotlin\io\github\dingyi222666\luastringfog" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="MainKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="io.github.dingyi222666.MainKt" />
+      <module name="LuaStringFog.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.MainKt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-11.0.21-corretto-11.0.21-8336523bb0d9-d3b62f98" />
+        <option value="jdk-17.0.9-corretto-17.0.9-8336523bb0d9-93b19daf" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="5fa5d3e7-d31a-42a6-93d7-05c3fb6e12bd" name="更改" comment="" />
+      <created>1706262585830</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1706262585830</updated>
+    </task>
+    <servers />
+  </component>
+</project>
